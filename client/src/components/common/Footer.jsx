@@ -42,7 +42,7 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2023 BertFlix Developed by{' '}
+          &copy; 2023 Movie Dekho Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
