@@ -42,17 +42,17 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2022 BertFlix Developed by{' '}
+          &copy; 2023 BertFlix Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
               color: theme.palette.primary.main
             }}
-            href="https://berthutapea.vercel.app/"
+            href="https://saurabh1383.github.io/portfolio1.github.io/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gilbert Hutapea
+            SUMAN SAURABH
           </a>
         </Typography>
       </Paper>
